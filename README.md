@@ -27,3 +27,5 @@ TypeScript-4
  React-5
  https://react.dev/learn
  https://react.dev/learn/thinking-in-react
+
+VS extention amazonQ LiveSteam
